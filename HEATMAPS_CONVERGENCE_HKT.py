@@ -15,6 +15,7 @@ import matplotlib.pyplot as plt
 from matplotlib.colors import LogNorm
 from matplotlib.colors import Normalize
 
+#HEATMAPS CONVERGENCE TIME HK WITH TRUTH PARAMETERS
 
 graph_list = ['ER_0.1', 'ER_0.3', 'ER_0.9']
 
