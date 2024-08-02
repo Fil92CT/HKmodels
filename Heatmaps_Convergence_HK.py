@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 import matplotlib.colors
 
 
-"""CODE HEATMAPS HK BASE"""
+"""CODE HEATMAPS CONVERGENCE TIME HK"""
 
 def read_and_average_data(folder_path):
     """Read all CSV files starting with 'Convergence_Time_' in the given folder and return the average values for each column."""
