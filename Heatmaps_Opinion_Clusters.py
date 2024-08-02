@@ -11,7 +11,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import pandas as pd
 
-""" HEATMAPS OPINION CLUSTERS"""
+""" HEATMAPS MEAN NUMBER OF OPINION CLUSTERS"""
 
 def count_opinion_clusters(data_array, max_distance=0.02):
     clusters = []
